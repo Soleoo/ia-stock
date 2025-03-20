@@ -1,0 +1,13 @@
+flask
+flask-sqlalchemy
+flask-cors
+google-generativeai
+langchain
+langchain-google-genai
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+python-dotenv
+statsmodels 
